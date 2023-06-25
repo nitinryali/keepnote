@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https/nititnryali.github.io/keepnote/static/js/main.85cbd257.chunk.js",
-    "main.js.map": "https/nititnryali.github.io/keepnote/static/js/main.85cbd257.chunk.js.map",
-    "runtime-main.js": "https/nititnryali.github.io/keepnote/static/js/runtime-main.ba5435d7.js",
-    "runtime-main.js.map": "https/nititnryali.github.io/keepnote/static/js/runtime-main.ba5435d7.js.map",
-    "static/js/2.260104d4.chunk.js": "https/nititnryali.github.io/keepnote/static/js/2.260104d4.chunk.js",
-    "static/js/2.260104d4.chunk.js.map": "https/nititnryali.github.io/keepnote/static/js/2.260104d4.chunk.js.map",
-    "index.html": "https/nititnryali.github.io/keepnote/index.html",
-    "precache-manifest.089ce8c38602b3b5d0cac3e7f9de96d9.js": "https/nititnryali.github.io/keepnote/precache-manifest.089ce8c38602b3b5d0cac3e7f9de96d9.js",
-    "service-worker.js": "https/nititnryali.github.io/keepnote/service-worker.js"
+    "main.js": "/keepnote/static/js/main.90b4ebe6.chunk.js",
+    "main.js.map": "/keepnote/static/js/main.90b4ebe6.chunk.js.map",
+    "runtime-main.js": "/keepnote/static/js/runtime-main.14ddeed5.js",
+    "runtime-main.js.map": "/keepnote/static/js/runtime-main.14ddeed5.js.map",
+    "static/js/2.d9dbca7f.chunk.js": "/keepnote/static/js/2.d9dbca7f.chunk.js",
+    "static/js/2.d9dbca7f.chunk.js.map": "/keepnote/static/js/2.d9dbca7f.chunk.js.map",
+    "index.html": "/keepnote/index.html",
+    "precache-manifest.4118463e120c68735c5d13c2c6ee8b52.js": "/keepnote/precache-manifest.4118463e120c68735c5d13c2c6ee8b52.js",
+    "service-worker.js": "/keepnote/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.ba5435d7.js",
-    "static/js/2.260104d4.chunk.js",
-    "static/js/main.85cbd257.chunk.js"
+    "static/js/runtime-main.14ddeed5.js",
+    "static/js/2.d9dbca7f.chunk.js",
+    "static/js/main.90b4ebe6.chunk.js"
   ]
 }
